@@ -5,7 +5,7 @@ Data Cleaning Best Approach Hira Using python for Data Analyst --> here i have w
 
 This repository showcases a step-by-step, real-world data cleaning workflow using Python — designed specifically for Data Analysts, not for Machine Learning or Deep Learning tasks.
 
-![image alt](https://github.com/irfanulkabirhira/Heart-Disease-Analysis-Dashboard-in-PowerBI/blob/9cbb2f7b2a6fc2650a9ab7211c212722da502129/Project%20image.png)
+![image alt](https://github.com/irfanulkabirhira/Data-Cleaning-Best-Approach-Hira-Using-python-for-Data-Analyst/blob/b1a784d0953e78d93752ea6cda67e67cadcef38c/Data%20Cleaning%20Steps.png)
 
    📁 Repository Structure:
 
