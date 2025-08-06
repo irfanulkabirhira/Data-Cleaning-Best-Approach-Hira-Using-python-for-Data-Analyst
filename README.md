@@ -5,26 +5,7 @@ Data Cleaning Best Approach Hira Using python for Data Analyst --> here i have w
 
 This repository showcases a step-by-step, real-world data cleaning workflow using Python — designed specifically for Data Analysts, not for Machine Learning or Deep Learning tasks.
 
-✅ Cleaning Workflow Covered:
-
-  Removing unnecessary columns – Drop columns that are irrelevant or redundant.
-
-   Renaming columns – Rename headers for clarity and consistency.
-
-   Removing duplicate rows – Ensure unique records in the dataset.
-
-  Merging columns – Combine related columns into a single meaningful field.
-
-  Splitting columns – Break down complex columns into simpler parts (e.g., names, dates).
-
-  Replacing null values – Handle missing data using suitable techniques.
-
-   Changing data types – Convert columns to proper data types (e.g., string to datetime).
-
-   Sorting columns – Organize data based on specific columns for better readability.
-
-   Filtering the dataset – Keep only the relevant subset of data for analysis.
-
+![image alt](https://github.com/irfanulkabirhira/Heart-Disease-Analysis-Dashboard-in-PowerBI/blob/9cbb2f7b2a6fc2650a9ab7211c212722da502129/Project%20image.png)
 
    📁 Repository Structure:
 
